@@ -15,3 +15,13 @@ We are trying this idea of *mastering the ideas*, where we are trying to find as
 - The second two metaphors, sink and shatter, are more link tone promises and they kind of imply this three part form.
 - I want to get some of the twelve-tone stuff into there as well.
 - Also want to use *harmonic major* and *double harmonic major* and the *whole tone plus P4 and M7*. And *Double Harmonic Minor*.
+
+### Writing Process
+1. For each labeled idea develop the ideas to one page in length to get a feel for their capabilities.
+1. After developing all of the ideas, create formal plan with timings and annotations.
+1. Create the short score in the copmuter and move to a blank band score to orchestrate.
+1. Orchestrate that then input the orchestation into the computer for the first draft.
+1. Go through a few more drafts.
+1. Go through the engraving process, add cues and parts.
+1. Create a good mockup, might have to put it into musescore.
+1. Finish the front matter and polishing, then upload to MyScore.
