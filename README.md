@@ -1,20 +1,13 @@
-# Shift, Sink, and Shatter
+TBD
 ---
-A piece for concert band
-
-The idea here is to go all out with these intervallic ideas and trying to work on this new music composing process:
+A Rondo-Variations for Concert Band
 
 ### Composing Process
-We are trying this idea of *mastering the ideas*, where we are trying to find as many as is useful transformations of idea A through K that have already been written down. Then after that development process there will be a recombination of the developments of ideas A-K and we will consider that to be a truly developed set of ideas. Once that is done we can begin structuring those ideas in the way that seems natural based on the concepts we already have in-place for the piece.
-
-### Concept for the piece
-- Basically an inversion of Daphnis et Chloe from a musical perspective where we go from Dark to Light and we want to use the three metaphors we have in the title to do interesting things.
-- We are developing this *concept of intervallic* engines that are driving more typical harmonic material. What is it that makes certain harmonic effects so effective? Can we take that and figure out some of the underlying intervallic logic that makes it work and do something interesting with that?
-- I want to take these two jazz comping books I have and see if I can find some cool intervallic things that will work in the concert band concept.
-- The idea of shift is most important to what we will do with stable things becoming less stable and etc.
-- The second two metaphors, sink and shatter, are more link tone promises and they kind of imply this three part form.
-- I want to get some of the twelve-tone stuff into there as well.
-- Also want to use *harmonic major* and *double harmonic major* and the *whole tone plus P4 and M7*. And *Double Harmonic Minor*.
+- The idea is to try to shift my intention from writing over-wrought music into a approach of radical simplicity and effectiveness.
+- When you think about it what has happened to me is the same thing that happens to english majors where they lose the ability to write in their own voice.
+- When you think about what jblow did when he had problems finishing things is he simplified the things he was trying to do drastically. (Simplify as many parameters as you can to try and get something done)
+- The opportunity to think through my process 50 times in a row every week will be very important in terms of development.
+- My theoretical development was essential for my teaching practice but not necessarily for the composing process.
 
 ### Writing Process
 1. For each labeled idea develop the ideas to one page in length to get a feel for their capabilities.
@@ -23,5 +16,5 @@ We are trying this idea of *mastering the ideas*, where we are trying to find as
 1. Orchestrate that then input the orchestation into the computer for the first draft.
 1. Go through a few more drafts.
 1. Go through the engraving process, add cues and parts.
-1. Create a good mockup, might have to put it into musescore.
+1. Create a good mockup, might have to put it into Musescore.
 1. Finish the front matter and polishing, then upload to MyScore.
